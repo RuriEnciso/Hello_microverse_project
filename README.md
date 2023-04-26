@@ -263,7 +263,7 @@ I would like to thank uuukiooo my fisrt partner at Microverse
 <!-- 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-<!-- > Add at least 2 questions new developers would ask when they decide to use your project.  -->
+<!-- > Add at least 2 questions new developers would ask when they decide to use your project. 
 
 - **[Question_1]**
 
@@ -274,7 +274,7 @@ I would like to thank uuukiooo my fisrt partner at Microverse
   - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
