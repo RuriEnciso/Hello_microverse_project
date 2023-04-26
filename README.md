@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 <!-- > Describe between 1-3 key features of the application. -->
 
-- **[future feature]**
-- **[future feature]**
-- **[future feature]**
+- **[CSS ]**
+- **[HTML ]**
+- **[JS ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +119,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -205,7 +205,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+<!-- > Mention all of the collaborators of this project. -->
 
 👤 **Ruri Enciso**
 
@@ -221,10 +221,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+<!-- > Describe 1 - 3 features you will add to the project. -->
 
-- [ ] **[future feature]**
-- [ ] **[future feature]**
+- [ ] **[Responsive Design]**
+- [ ] **[Accesible website]**
 - [ ] **[future feature]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -253,7 +253,7 @@ If you like this project can improve
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+<!-- > Give credit to everyone who inspired your codebase. -->
 
 I would like to thank uuukiooo my fisrt partner at Microverse
 
@@ -263,7 +263,7 @@ I would like to thank uuukiooo my fisrt partner at Microverse
 <!-- 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project. 
+<!-- > Add at least 2 questions new developers would ask when they decide to use your project.  -->
 
 - **[Question_1]**
 
